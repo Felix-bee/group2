@@ -1,2 +1,2 @@
 # group2
-School web
+School web.github.io
